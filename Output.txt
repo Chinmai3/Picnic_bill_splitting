@@ -1,0 +1,13 @@
+Enter the no of friends :2
+Enter the no of activities : 2
+Enter the name of activity #1:Trekking
+Enter the cost of Trekking:50
+Enter the name of activity #2:Pizza
+Enter the cost of Pizza:50
+Enter the name of friend #1:Mojo
+Enter the amount paid by Mojo:100
+Enter the name of friend #2:Tojo
+Enter the amount paid by Tojo :0
+The final balance amounts are:
+Mojo: -50.0
+Tojo: 50.0
